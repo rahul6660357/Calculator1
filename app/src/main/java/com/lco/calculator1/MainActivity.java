@@ -12,6 +12,8 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 Button Button0, Button1,Button2,Button3, Button4,Button5,Button6, Button7,Button8,Button9, Buttonac,Buttonmul,Buttondiv,Buttonplus,Buttonminus,Buttondot,Buttonequal,Buttonpercentile;
 TextView num;
+    
+//     bhai accept kr pull request
 
 float value1, value2,value3;
 boolean sum,subtraction,division,multiply,percentile;
